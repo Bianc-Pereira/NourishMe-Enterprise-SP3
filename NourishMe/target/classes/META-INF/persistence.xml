@@ -13,14 +13,6 @@
 
 		<properties>
 
-			<!-- mysql <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost/aulajpa?useSSL=false&amp;serverTimezone=UTC" 
-				/> <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" 
-				/> <property name="javax.persistence.jdbc.user" value="rm95396" /> <property 
-				name="javax.persistence.jdbc.password" value="160903" /> <property name="hibernate.show_sql" 
-				value="true" /> <property name="hibernate.hbm2ddl.auto" value="update" /> 
-				<property name="hibernate.dialect" value="org.hibernate.dialect.MySQL8Dialect" 
-				/> Fim -->
-
 			<!-- oracle -->
 			<property name="hibernate.show_sql" value="true" />
 			<property name="hibernate.format_sql" value="true" />
