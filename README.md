@@ -37,9 +37,7 @@ O **Nourish Me** é um aplicativo de monitoramento alimentar que tem como objeti
 
 <img src="/Imagens/DDL.png" width="700" height="500">
 
-## Planos de Acesso
+## Prototipo Funcional Mobile
+[NourishMe Prototipo Funcional](https://drive.google.com/file/d/1FZ8CjnZOCdAzseCFOKpDNZ9cDv-zcItR/view?usp=sharing)
 
-- **Plano Premium para Terapeutas:** Permite que terapeutas integrem a plataforma em seus métodos de tratamento, fornecendo acesso a perfis de pacientes e dados registrados.
-
----
 
